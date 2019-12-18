@@ -67,7 +67,7 @@ Android向けAdobe Mobile SDKは、Gradleを使用して、様々なコンポー
 
    ![Bus Booking Androidフォルダーのルートにあるbuild.gradleファイルを開きます](images/android/mobile-launch-install-openApp.png)
 
-1. ドロップダウンを開き、[プロジェクト]ビューに切り替えます
+1. ドロップダウンを開き、\[プロジェクト\]ビューに切り替えます
 
    ![ドロップダウンから[プロジェクト]を選択します。](images/android/mobile-launch-install-openProjectView.png)
 
