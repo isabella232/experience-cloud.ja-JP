@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
+source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 
 ---
 
@@ -207,7 +207,7 @@ source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 </tbody>
 </table>
 
-## ![Icon](/help/assets/experience-cloud.png) Adobe Experience Platform
+## ![Icon](/help/assets/platform.png) Adobe Experience Platform
 
 <table>
 <thead>
