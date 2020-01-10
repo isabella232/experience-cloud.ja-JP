@@ -2,14 +2,16 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
+source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 
 ---
 
 
 # Adobe Experience cloudドキュメント
 
-このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
+![バナー](/help/assets/experience-cloud-banner-notext.png)
+
+このページには、Adobe Experience cloudのユーザーガイドとチュートリアルの包括的なリストが含まれています。
 
 ## ![Icon](/help/assets/experience-cloud.png) Release Notes
 
@@ -256,6 +258,7 @@ source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-opガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTMガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> ロケーションサービス</a></li>
     </ul>
   </td>
   <td>
