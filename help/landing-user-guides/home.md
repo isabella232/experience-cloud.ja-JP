@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
+source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
 
 ---
 
@@ -299,17 +299,20 @@ source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
 <thead>
   <tr>
     <th>ユーザーガイド</th>
-    <th></th>
+    <th>チュートリアル</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> ジャーニーオーケストレーションヘルプ</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> ジャーニーオーケストレーションユーザーガイド</a></li>
     </ul>
   </td>
   <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> ジャーニーオーケストレーションチュートリアル</a></li>
+    </ul>
   </td>
 </tr>
 </tbody>
