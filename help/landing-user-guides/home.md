@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
+source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
 
 ---
 
@@ -49,7 +49,7 @@ source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analyticsメインガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics分析ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analyticsツールガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> コンポーネントガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 書き出しガイド</a></li>
