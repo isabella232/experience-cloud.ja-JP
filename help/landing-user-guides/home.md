@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -75,7 +75,7 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
 <thead>
   <tr>
     <th>ユーザーガイド</th>
-    <th>チュートリアル</th>
+    <th>チュートリアルと開発</th>
   </tr>
 </thead>
 <tbody>
@@ -88,6 +88,11 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Targetチュートリアル</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Targetサーバー側API</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target nodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Target Adobe.IOドキュメント</a></li>
     </ul>
   </td>
 </tr>
