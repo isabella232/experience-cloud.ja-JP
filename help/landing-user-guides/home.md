@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
+source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 
 ---
 
@@ -225,7 +225,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-opガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTMガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> ロケーションサービス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> プレースサービス（旧ロケーションサービス）</a></li>
     </ul>
   </td>
   <td>
@@ -265,6 +265,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> カスタマージャーニー分析</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> リアルタイム顧客データプラットフォームガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> ジャーニーオーケストレーションユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Placesサービス</a></li>
     </ul>
   </td>
   <td>
