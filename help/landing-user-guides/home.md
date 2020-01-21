@@ -2,7 +2,7 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
+source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
 
 ---
 
@@ -41,7 +41,7 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 <thead>
   <tr>
     <th>ユーザーガイド</th>
-    <th>チュートリアルと開発</th>
+    <th>チュートリアルとリソース</th>
   </tr>
 </thead>
 <tbody>
@@ -56,12 +56,15 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 導入ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> ガイドの読み込み</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 統合ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> メディア解析ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbenchガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> カスタマージャーニー分析</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analyticsチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> 解析に関するテクニカルノート</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics API</a></li>
     </ul>
   </td>
