@@ -2,14 +2,14 @@
 title: Adobe Experience cloudドキュメント
 description: このページには、Adobe Experience cloudのすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: aad5d5503b1041cc060bfa4b38bfbdfcd5b26e87
+source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
 
 ---
 
 
 # Adobe Experience cloudドキュメント
 
-![バナー](/help/assets/experience-cloud-banner-notext.png)
+![バナー](/help/assets/experience-cloud-banner-3.png)
 
 このページには、Adobe Experience cloudのユーザーガイドとチュートリアルの包括的なリストが含まれています。
 
