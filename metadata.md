@@ -9,13 +9,13 @@ git-repo: https://github.com/AdobeDocs/experience-cloud.en
 index: true
 mini-toc-levels: 2
 product: experience cloud
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fdc3d09bf382a1fc5ef8a5af98e545cec942df8d
 
 ---
 
 
-# syanai 用のメタデータ
+# 社内用のメタデータ
 
 metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
