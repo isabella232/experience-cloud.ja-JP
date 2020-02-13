@@ -1,6 +1,6 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # コントリビューション
@@ -19,4 +19,4 @@ translation-type: tm+mt
 
 ## コードのレビュー
 
-提案はすべてプルリクエストの形式でおこなわれ、プロジェクトのコミッターによってレビューされる必要があります。プルリクエストの送信方法については、[GitHub のプルリクエストに関するドキュメント](https://help.github.com/articles/about-pull-requests/)を参照してください。
+提案はすべてプルリクエストの形式でおこなわれ、プロジェクトのコミッターによってレビューされる必要があります。プルリクエストの送信方法については、[GitHub のプルリクエストに関するドキュメント](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-requests)を参照してください。
