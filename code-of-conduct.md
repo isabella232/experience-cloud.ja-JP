@@ -1,6 +1,6 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # アドビ行動規範
