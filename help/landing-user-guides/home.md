@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
+source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ---
 
@@ -121,8 +121,8 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html"> Campaign Classicチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html"> キャンペーン標準チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classicチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> キャンペーン標準チュートリアル</a></li>
     </ul>
   </td>
 </tr>
