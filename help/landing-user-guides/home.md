@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: 77f00aaf2984d22e69e262432a66b526e8129a84
 
 ---
 
@@ -11,7 +11,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ![バナー](/help/assets/experience-cloud-banner-3.png)
 
-このページには、Adobe Experience cloudのユーザーガイドとチュートリアルの包括的なリストが含まれています。
+このページには、Adobe Experience Cloudのユーザーガイドとチュートリアルの包括的なリストが含まれています。
 
 ## ![Icon](/help/assets/experience-cloud.png) リリースノート
 
@@ -92,7 +92,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Targetチュートリアル</a></li>
       <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Targetサーバー側API</a></li>
-      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target nodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
       <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
       <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
       <li><a href="http://developers.adobetarget.com/api/#introduction"> Target Adobe.IOドキュメント</a></li>
@@ -122,7 +122,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classicチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> キャンペーン標準チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> キャンペーン標準のチュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -166,14 +166,14 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 <tbody>
 <tr>
   <td>
-    <p><strong>クラウドサービスとしての AEM</strong></p>
+    <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> クラウドサービスユーザーガイドとしてのAEM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Serviceユーザーガイド</a></li>
     </ul>
     <p><strong>AEMバージョン</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4ユーザガイド</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 以前の AEM バージョンのユーザーガイド</a></li>
     </ul>
     <p><strong>その他の AEM ガイド</strong></p>
@@ -193,9 +193,9 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> クラウドサービスチュートリアルとしてのAEM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM as a Cloud Service Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assetsチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM formsチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Formsチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEMサイトのチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND チュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundationチュートリアル</a></li>
@@ -207,7 +207,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 </tbody>
 </table>
 
-## ![Icon](/help/assets/experience-cloud.png) Core Services、管理および実装
+## ![Icon](/help/assets/experience-cloud.png) Core Services, Administration, and Implementation
 
 <table>
 <thead>
@@ -228,12 +228,12 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamic Tag Managementガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> プレースサービス（旧ロケーションサービス）</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> プレースサービス（以前のロケーションサービス）</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> コアサービスチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> コアサービスのチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> モバイル iOS Swift アプリケーションでの Experience Cloud の実装</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装</a></li>
@@ -244,7 +244,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 </tbody>
 </table>
 
-## ![Icon](/help/assets/platform.png) Experience Platform
+## ![アイコン](/help/assets/platform.png) Experience Platform
 
 <table>
 <thead>
@@ -277,8 +277,8 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> エクスペリエンスプラットフォームチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> ジャーニーオーケストレーションチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> ジャーニーオーケストレーションのチュートリアル</a></li>
     </ul>
   </td>
 </tr>
