@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
+source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
 
 ---
 
@@ -11,7 +11,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
 
 ![バナー](/help/assets/experience-cloud-banner-3.png)
 
-このページには、Adobe Experience Cloudのユーザーガイドとチュートリアルの包括的なリストが含まれています。
+このページには、Adobe Experience Cloudのユーザーガイドとリストの包括的なガイドが含まれています。
 
 ## ![Icon](/help/assets/experience-cloud.png) リリースノート
 
@@ -49,7 +49,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics メインガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analyticsツールガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics ツールガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> コンポーネントガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 書き出しガイド</a></li>
@@ -57,7 +57,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> インポートガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 統合ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> メディア解析ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbenchガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> カスタマージャーニー分析</a></li>
     </ul>
   </td>
@@ -72,7 +72,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
 </tbody>
 </table>
 
-## ![Icon](/help/assets/target.png) Target
+## ![アイコン](/help/assets/target.png) ターゲット
 
 <table>
 <thead>
@@ -90,19 +90,19 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Targetチュートリアル</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Targetサーバー側API</a></li>
-      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
-      <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
-      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
-      <li><a href="http://developers.adobetarget.com/api/#introduction"> Target Adobe.IOドキュメント</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> ターゲットチュートリアル</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> ターゲットサーバー側API</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> ターゲットNodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> ターゲットJava SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> ターゲット推奨API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> ターゲットAdobe.IOドキュメント</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Icon](/help/assets/campaign.png) Campaign
+## ![アイコン](/help/assets/campaign.png) キャンペーン
 
 <table>
 <thead>
@@ -122,7 +122,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classicチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> キャンペーン標準のチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standardチュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -147,7 +147,7 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Managerチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager チュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -184,8 +184,8 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM コアコンポーネント</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud ライブラリ</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM デスクトップアプリ</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Assets Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms 自動変換サービス</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> ダイナミックメディアクラシック</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> ダイナミックメディア開発者ガイド</a></li>
