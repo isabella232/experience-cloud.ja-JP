@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud チュートリアル
 description: すべての Experience Cloud チュートリアルと学習ガイドへのリンク
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 ---
@@ -16,8 +16,8 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 ## Target
 
 * [Target 学習チュートリアル](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
-* [WebサイトでのRecommendationsの使用](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
-* [Android向けAdobe Mobile Services SDK v4を使用したAdobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
+* [Web サイトでの Recommendations の使用](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
+* [Android 向け Adobe Mobile Services SDK v4 を使用した Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
@@ -41,7 +41,7 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 * [AEM Assets 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Forms 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
-* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html)
+* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
 * [AEM Sites WKND チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 * [AEM Foundation 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Dispatcher キャッシュチュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html)
@@ -51,15 +51,15 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 Advertising Cloud のヘルプは、ページの上部にあるヘルプアイコン（?）をクリックすることで、製品内で利用できます。
 
-* [Advertising Cloud リリースノート](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
+* [Advertising Cloud リリースノート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html#adcloud)
 
 ## その他のリソース
 
 > [!MORELIKETHIS]
 >
->* [Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)
->* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)
+>* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [コミュニティフォーラム](https://forums.adobe.com/community/experience-cloud/)
->* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+>* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/jp/learning.html?promoid=KAUDK)
 
