@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud チュートリアル
 description: すべての Experience Cloud チュートリアルと学習ガイドへのリンク
-translation-type: ht
-source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
+translation-type: tm+mt
+source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
 
 ---
 
@@ -26,7 +26,8 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 ## コアサービスとプラットフォームサービス
 
 * [コアサービス学習チュートリアル](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [プラットフォーム学習チュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [プラットフォームビデオチュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [プラットフォームチュートリアル](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
 * [Launch 実装ガイド](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
 * [モバイル iOS Swift アプリケーションでの Experience Cloud の実装](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
 * [モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
@@ -41,7 +42,7 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 * [AEM Assets 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Forms 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
-* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
+* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html)
 * [AEM Sites WKND チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 * [AEM Foundation 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Dispatcher キャッシュチュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html)
@@ -51,15 +52,15 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 Advertising Cloud のヘルプは、ページの上部にあるヘルプアイコン（?）をクリックすることで、製品内で利用できます。
 
-* [Advertising Cloud リリースノート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html#adcloud)
+* [Advertising Cloud リリースノート](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
 
 ## その他のリソース
 
 > [!MORELIKETHIS]
 >
->* [Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)
->* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html)
+>* [Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)
+>* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [コミュニティフォーラム](https://forums.adobe.com/community/experience-cloud/)
->* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/jp/learning.html?promoid=KAUDK)
+>* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/learning.html?promoid=KAUDK)
 
