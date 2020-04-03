@@ -2,18 +2,18 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
+source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 
 ---
 
 
 # Adobe Experience Cloud ドキュメント
 
-![バナー](/help/assets/experience-cloud-banner-3.png)
+![バナー](/help/assets/experience-cloud-banner-4.png)
 
 このページには、Adobe Experience Cloud のユーザーガイドとチュートリアルの包括的なリストが含まれています。
 
-## ![アイコン](/help/assets/experience-cloud.png)リリースノート
+## リリースノート
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/analytics.png) Analytics
+## Analytics
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/target.png) Target
+## Target
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/campaign.png) Campaign
+## Campaign
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/experience-cloud.png)コアサービス、管理、および実装
+## コアサービス、管理および実装
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/primetime.png) Primetime
+## Primetime
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 Advertising Cloud のヘルプは、ページの上部にあるヘルプアイコン（?）をクリックすることで、製品内で利用できます。
 
@@ -338,7 +338,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/marketo.png) Marketo
+## マーケト
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/magento.png) Magento
+## Magento
 
 <table>
 <thead>
@@ -385,7 +385,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 </tbody>
 </table>
 
-## ![アイコン](/help/assets/experience-cloud.png) その他の Experience Cloud ガイド
+## その他のExperience Cloudガイド
 
 <table>
 <thead>
