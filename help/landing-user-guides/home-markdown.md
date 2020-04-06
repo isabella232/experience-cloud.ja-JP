@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: ht
-source-git-commit: b1221def9e9ea3459c49d0a3220c770f51de01c6
+translation-type: tm+mt
+source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ---
 
@@ -103,7 +103,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 * [Livefyre 実装ガイド](https://docs.adobe.com/content/help/ja-JP/livefyre/implementation/home.html)
 * [Social](https://docs.adobe.com/content/help/ja-JP/social/using/home.html)
 
-> [!MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
