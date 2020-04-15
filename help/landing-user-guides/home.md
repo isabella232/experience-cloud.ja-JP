@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
+source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 
 ---
 
@@ -26,7 +26,7 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html"> リリースノートガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html"> リリースノートガイド</a></li>
     </ul>
   </td>
   <td>
@@ -48,23 +48,23 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics メインガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics ツールガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> コンポーネントガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 書き出しガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 実装ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> インポートガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 統合ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> メディア解析ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html">Analytics メインガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/analyze/home.html"> Analytics ツールガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/admin/home.html"> 管理ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/home.html"> コンポーネントガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/export/home.html"> 書き出しガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/implementation/home.html"> 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/import/home.html"> インポートガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/integration/home.html"> 統合ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/media-analytics/using/media-overview.html"> メディア解析ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/data-workbench/using/home.html"> Data Workbench ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Analytics テクニカルノート</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/technotes/home.html"> Analytics テクニカルノート</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics APIs</a></li>
     </ul>
   </td>
@@ -85,7 +85,7 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> Target ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/target/using/target-home.html"> Target ガイド</a></li>
     </ul>
   </td>
   <td>
@@ -115,8 +115,8 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
@@ -142,7 +142,7 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html"> Audience Manager ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/aam-home.html"> Audience Manager ユーザーガイド</a></li>
     </ul>
   </td>
   <td>
@@ -168,26 +168,26 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
   <td>
     <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Service ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Service ユーザーガイド</a></li>
     </ul>
     <p><strong>AEM バージョン</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-65/user-guide/home.html"> AEM 6.5 ユーザーガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 ユーザーガイド</a></li>
-      <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 以前の AEM バージョンのユーザーガイド</a></li>
+      <li><a href="https://helpx.adobe.com/jp/support/experience-manager/6-3.html"> 以前の AEM バージョンのユーザーガイド</a></li>
     </ul>
     <p><strong>その他の AEM ガイド</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> AEM Screens のベストプラクティスガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM コアコンポーネント</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM デスクトップアプリ</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Assets Brand Portal</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms 自動変換サービス</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media クラシック</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-screens/using/about-guide.html"> AEM Screens のベストプラクティスガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html"> AEM コアコンポーネント</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/introduction.html"> AEM デスクトップアプリ</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/home.html"> AEM Assets Brand Portal</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/aem-forms-automated-conversion-service/using/introduction.html"> AEM Forms 自動変換サービス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html"> Dynamic Media クラシック</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 開発者ガイド</a></li>
     </ul>
   </td>
@@ -220,15 +220,15 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> コアサービスインターフェイス</a></li>
-      <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Experience Cloud ID サービスガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamic Tag Managementガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places サービス（以前のロケーションサービス）</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html"> コアサービスインターフェイス</a></li>
+      <li><a href="https://helpx.adobe.com/jp/enterprise/using/admin-console.html"> Admin Console</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html"> Experience Cloud ID サービスガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html"> Mobile Services ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/device-co-op/using/home.html"> Device Co-op ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/dtm/using/dtm-home.html"> Dynamic Tag Management ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/places/using/home.html"> Places サービス（以前のロケーションサービス）</a></li>
     </ul>
   </td>
   <td>
@@ -258,27 +258,27 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
   <td>
     <p><strong>Experience Platform</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Experience Platform ドキュメント</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/landing/home.html"> Experience Platform ドキュメント</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Platform リリースノート</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html"> Auditor</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
     </ul>
     <p><strong>Experience Platform によるアプリケーションサービス</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> リアルタイムの顧客データプラットフォームガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Journey Orchestration ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places　サービス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/rtcdp/overview.html"> リアルタイムの顧客データプラットフォームガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html"> Journey Orchestration ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/places/using/home.html"> Places　サービス</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> エクスペリエンスプラットフォームビデオチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration チュートリアル</a></li>
     </ul>
   </td>
@@ -299,12 +299,14 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime プログラミングガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime Digital Rights Management</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/video-playback/home.html"> Primetime ビデオ再生</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 広告の挿入</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime 移行ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Primetime リリースノート</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime プログラミングガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime移行およびコンバージョンガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Primetimeリファレンスの実装</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime動的広告挿入</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime Digital Rights Management</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Primetime APIリファレンス</a></li>
+      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Primetimeアーカイブドキュメント</a></li>
     </ul>
   </td>
   <td>
@@ -328,8 +330,8 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud"> Advertising Cloud リリースノート</a></li>
-      <li><a href="https://helpx.adobe.com/support/advertising-cloud.html"> Advertising Cloud のラーニングとサポート</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html#adcloud"> Advertising Cloud リリースノート</a></li>
+      <li><a href="https://helpx.adobe.com/jp/support/advertising-cloud.html"> Advertising Cloud のラーニングとサポート</a></li>
     </ul>
   </td>
   <td>
@@ -352,7 +354,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo 製品（クラシック）</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://help.marketo.com/hc/ja"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizbile ドキュメント</a></li>
     </ul>
   </td>
@@ -398,10 +400,10 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Livefyre ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Livefyre 実装ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/social/using/home.html"> Social（製品は利用できなくなりました）</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/using/home.html"> Livefyre ユーザーガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/implementation/home.html"> Livefyre 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/social/using/home.html"> Social（製品は利用できなくなりました）</a></li>
     </ul>
   </td>
   <td>
@@ -412,8 +414,8 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 
 >[!MORELIKETHIS]
 >
->* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [コミュニティフォーラム](https://forums.adobe.com/community/experience-cloud/)
->* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+>* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/jp/learning.html?promoid=KAUDK)
 
