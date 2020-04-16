@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud チュートリアル
 description: すべての Experience Cloud チュートリアルと学習ガイドへのリンク
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ---
@@ -26,8 +26,8 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 ## コアサービスとプラットフォームサービス
 
 * [コアサービス学習チュートリアル](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [プラットフォームビデオチュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [プラットフォームチュートリアル](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
+* [Platform ビデオチュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Platform チュートリアル](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
 * [Launch 実装ガイド](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
 * [モバイル iOS Swift アプリケーションでの Experience Cloud の実装](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
 * [モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
@@ -42,7 +42,7 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 * [AEM Assets 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Forms 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
-* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html)
+* [AEM Sites 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html)
 * [AEM Sites WKND チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 * [AEM Foundation 学習チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Dispatcher キャッシュチュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html)
