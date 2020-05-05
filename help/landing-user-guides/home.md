@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 >[!NOTE]
 >
->このページでの検索機能の使用は、小さなコンテンツのセットに制限されます。 その領域を検索するには、特定のユーザーガイド(Analyticsやターゲットなど)に移動することをお勧めします。 Experience Leagueに近づくにつれて、検索機能が向上します。
+>このページでの検索機能の使用は、小さなコンテンツのセットに制限されます。その領域を検索するには、特定のユーザーガイド（Analytics やターゲットなど）に移動することをお勧めします。Experience League への移行に伴い、検索機能が向上します。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -267,7 +267,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/landing/home.html"> Experience Platform ドキュメント</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Platform リリースノート</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html"> Platform リリースノート</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
@@ -283,7 +283,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
@@ -314,7 +314,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ja-JP/primetime/ad-insertion/home.translate.html"> Primetime ダイナミック広告挿入</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/primetime/drm/home.translate.html"> Primetime Digital Rights Management</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/primetime/reference/api-references.translate.html"> Primetime API リファレンス</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Primetime アーカイブ済みドキュメント</a></li>
+      <li><a href="https://helpx.adobe.com/jp/primetime/archives.html"> Primetime アーカイブ済みドキュメント</a></li>
     </ul>
   </td>
   <td>
