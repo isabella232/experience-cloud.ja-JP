@@ -1,8 +1,11 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+workflow-type: tm+mt
+source-wordcount: '1290'
+ht-degree: 100%
 
 ---
 
