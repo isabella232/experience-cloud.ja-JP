@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 100%
+source-wordcount: '1269'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->このページでの検索機能の使用は、小さなコンテンツのセットに制限されます。その領域を検索するには、特定のユーザーガイド（Analytics やターゲットなど）に移動することをお勧めします。Experience League への移行に伴い、検索機能が向上します。
+>ドキュメントコンテンツを移行する際に最高の検索機能を得るには、以下の製品セクションを参照し、ガイドレベルで検索を実行することをお勧めします
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
