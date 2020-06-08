@@ -18,7 +18,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->ドキュメントコンテンツを移行する際に最高の検索機能を得るには、以下の製品セクションを参照し、ガイドレベルで検索を実行することをお勧めします
+>ドキュメントコンテンツを移行する際に最高の検索機能を得るには、以下の製品セクションを参照し、ガイドレベルで検索を実行することをお勧めします。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
