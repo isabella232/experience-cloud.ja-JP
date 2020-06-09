@@ -2,9 +2,9 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
+source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1279'
 ht-degree: 97%
 
 ---
@@ -411,6 +411,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 <tr>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> ソフトウェア配布</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/using/home.html"> Livefyre ユーザーガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/implementation/home.html"> Livefyre 実装ガイド</a></li>
