@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
 translation-type: tm+mt
-source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
+source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
-source-wordcount: '1279'
-ht-degree: 97%
+source-wordcount: '1280'
+ht-degree: 96%
 
 ---
 
@@ -218,7 +218,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## コアサービス、管理、および実装
+## Experience Cloudインターフェイス、管理および実装
 
 <table>
 <thead>
@@ -231,7 +231,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html"> コアサービスインターフェイス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html"> Experience Cloudインターフェース</a></li>
       <li><a href="https://helpx.adobe.com/jp/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html"> Experience Cloud ID サービスガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html"> Mobile Services ガイド</a></li>
