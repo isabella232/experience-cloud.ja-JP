@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
 source-wordcount: '1280'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->ドキュメントコンテンツを移行する際に最高の検索機能を得るには、以下の製品セクションを参照し、ガイドレベルで検索を実行することをお勧めします。
+>ドキュメントコンテンツを移行する際、最高の検索エクスペリエンスを実現するには、以下の製品セクションを参照し、ガイドレベルで検索を実行することをお勧めします。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -133,7 +133,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.html"> Campaign Standard チュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -365,7 +365,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo 製品（クラシック）</a></li>
-      <li><a href="https://help.marketo.com/hc/ja"> Marketo Sky</a></li>
+      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizbile ドキュメント</a></li>
     </ul>
   </td>
@@ -411,7 +411,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> ソフトウェア配布</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-cloud/software-distribution/home.html"> ソフトウェア配布</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/using/home.html"> Livefyre ユーザーガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/livefyre/implementation/home.html"> Livefyre 実装ガイド</a></li>
