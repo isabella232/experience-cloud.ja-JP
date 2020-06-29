@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1280'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -101,7 +101,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/target-learn/tutorials/overview.html"> Target チュートリアル</a></li>
       <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Target サーバーサイド API</a></li>
       <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
       <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
@@ -218,7 +218,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## Experience Cloudインターフェイス、管理および実装
+## Experience Cloud インターフェイス、管理および実装
 
 <table>
 <thead>
@@ -231,7 +231,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html"> Experience Cloudインターフェース</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html"> Experience Cloud インターフェイス</a></li>
       <li><a href="https://helpx.adobe.com/jp/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html"> Experience Cloud ID サービスガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html"> Mobile Services ガイド</a></li>
@@ -365,7 +365,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo 製品（クラシック）</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://help.marketo.com/hc/ja"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizbile ドキュメント</a></li>
     </ul>
   </td>
