@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1291'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -132,7 +132,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/overview.translate.html"> Campaign Classic チュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.html"> Campaign Standard チュートリアル</a></li>
     </ul>
   </td>
@@ -245,7 +245,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> コアサービスチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch 実装ガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> モバイル iOS Swift アプリケーションでの Experience Cloud の実装</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> モバイル Android アプリでの Experience Cloud の実装</a></li>
@@ -274,7 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> デバッガv2 （ベータ版）</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2（ベータ版）</a></li>
     </ul>
     <p><strong>Experience Platform によるアプリケーションサービス</strong></p>
     <ul>
@@ -288,7 +288,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration チュートリアル</a></li>
