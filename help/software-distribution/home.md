@@ -1,11 +1,11 @@
 ---
 title: ソフトウェア配布
 description: Adobe Experience Cloud「ソフトウェア配布」の使用方法
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '500'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -14,34 +14,34 @@ ht-degree: 57%
 
 ## はじめに
 
-2020年6月時点で、Experience Cloudソリューション [!UICONTROL ソフトウェア配布] ページは、AEMおよび [!UICONTROL forのダウンロードプラットフォームの] PackageShare [!DNL Neolane] を置き換えます [!DNL Campaign]。 ソフトウェアの検索とダウンロードをより効率的に行うことができます。 直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。アドビの承認済みソフトウェアパッケージとパートナー会社のパッケージを、次の製品で使用できるようになりました。
+2020 年 6 月時点で、Experience Cloud ソリューション[!UICONTROL ソフトウェア配布]ページは、[!DNL Campaign] の AEM および [!DNL Neolane] のダウンロードプラットフォームの [!UICONTROL PackageShare] を置き換えます。ソフトウェアの検索とダウンロードをより効率的に行うことができます。直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。アドビの承認済みソフトウェアパッケージとパートナー会社のパッケージを、次の製品で使用できるようになりました。
 
 1. **Adobe Experience Manager** - サポートされるすべての AEM バージョンのサービスとメンテナンス、セキュリティ、ツールなどに関する機能がすべて備わっています。
-1. **[!UICONTROL Cloud ServiceとしてのAdobe Experience Manager ]**-[!UICONTROL AEM Cloud SDK]、[!UICONTROL AEM Cloud]移行ツールなど。
-1. **Adobe**[!DNL Campaign] - 現在の Campaign インストーラーのすべてのバージョンと関連ツール。
-1. **一般**[!DNL Oracle] - Adobe のお客様向け JDK を含む汎用ツール。
+1. **Adobe Experience Manager as a [!UICONTROL Cloud Service ]** - [!UICONTROL AEM Cloud SDK]、[!UICONTROL AEM Cloud] 移行ツールなど。
+1. **Adobe Campaign** - 現在の [!DNL Campaign] インストーラーのすべてのバージョンと関連ツール。
+1. **一般** - Adobe のお客様向け [!DNL Oracle] JDK を含む汎用ツール。
 
 ## ソフトウェア配布へのアクセス
 
-[https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) に移動し、Adobe ID を使用して「ソフトウェア配布」にログインします。
+[https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) に移動し、Adobe ID を使用して「[!UICONTROL ソフトウェア配布]」にログインします。
 
 >[!IMPORTANT]
 >
->Login credentials from [!UICONTROL Package Share] or [!DNL Neolane] will not work in [!UICONTROL Software Distribution], which provides capabilities to sign in with Adobe-wide security standards. Adobe ID がわからない場合は、社内のサポート管理者にお問い合わせください。
+>[!UICONTROL Package Share] または [!DNL Neolane] からのログイン資格情報はアドビ全体のセキュリティ標準に従ってログインする機能を提供する「[!UICONTROL ソフトウェア配布]」では機能しません。Adobe ID がわからない場合は、社内のサポート管理者にお問い合わせください。
 
 ## ナビゲーション
 
 ### 製品の選択
 
-組織がライセンスを保有している製品から、ソフトウェアダウンロードを選択できます。The header menu in [!UICONTROL Software Distribution] shows these products including the **General** start page where you can find general-purpose software downloads. ソフトウェアをダウンロードする製品を選択します。
+組織がライセンスを保有している製品から、ソフトウェアダウンロードを選択できます。「[!UICONTROL ソフトウェア配布]」のヘッダーメニューには、汎用のソフトウェアダウンロードを検索できる「**一般**」開始ページを含め、これらの製品が表示されます。ソフトウェアをダウンロードする製品を選択します。
 
 ### ダウンロードの検索
 
-選択した製品のダウンロードページに移動すると、そのページに製品関連のダウンロードすべてが一覧表示されます。ダウンロードのリストが長すぎて、すぐにダウンロードが見つからない場合があります。That’s why [!UICONTROL Software Distribution] offers you simple, but powerful ways to find your download. ほとんどの場合は、左側の検索フィルターを使用して、ダウンロードのリストをフィルタリングし、関連性の高い項目に絞り込むと便利です。製品に応じて、バージョン、ソリューション、ソフトウェアのタイプなどのフィルターが表示されます。
+選択した製品のダウンロードページに移動すると、そのページに製品関連のダウンロードすべてが一覧表示されます。ダウンロードのリストが長すぎて、すぐにダウンロードが見つからない場合があります。そのため、「[!UICONTROL ソフトウェア配布]」では、ダウンロードを簡単かつ強力に検索できる方法を提供しています。ほとんどの場合は、左側の検索フィルターを使用して、ダウンロードのリストをフィルタリングし、関連性の高い項目に絞り込むと便利です。製品に応じて、バージョン、ソリューション、ソフトウェアのタイプなどのフィルターが表示されます。
 
 もう 1 つの検索オプションは、右上の自由テキスト検索です。
 
-Being part of the Experience Cloud solutions family, [!UICONTROL Software Distribution] allows you to navigate in your Experience Cloud solutions context and to make use of unified Experience Cloud services, including core services, personalized notifications, and much more.
+「[!UICONTROL ソフトウェア配布]」は、Experience Cloud ソリューションファミリーの一部であり、Experience Cloud ソリューションのコンテキスト内を移動し、コアサービス、パーソナライズされた通知などの、統合 Experience Cloud サービスを利用できます。
 
 ### ソフトウェアのダウンロード
 
@@ -51,6 +51,6 @@ Being part of the Experience Cloud solutions family, [!UICONTROL Software Distri
 
 >[!NOTE]
 >
->[!UICONTROL ソフトウェア配布] (Software Distribution)は、ブラウザーのダウンロードのみをサポートします。 When using AEM [!UICONTROL Package Manager] for new installations, it is recommended to download the package to a local folder and install the package from there.
+>「[!UICONTROL ソフトウェア配布]」では、ブラウザーのダウンロードのみがサポートされます。新規インストールで AEM [!UICONTROL パッケージマネージャー]を使用する場合は、パッケージをローカルフォルダーにダウンロードし、そこからパッケージをインストールすることをお勧めします。
 
-[!UICONTROL Software Distribution] (ソフトウェア配布 [!UICONTROL )は、AEMコンポーネントを使用して構築され、]Cloud ServiceとしてAdobe Experience Managerを利用しています。
+「[!UICONTROL ソフトウェア配布]」は、AEM コンポーネントを使用して構築され、Adobe Experience Manager as a [!UICONTROL Cloud Service] を活用します。
