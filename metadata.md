@@ -5,19 +5,22 @@ solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
-git-repo: https://github.com/AdobeDocs/experience-cloud.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/experience-cloud.ja-JP
 index: true
 mini-toc-levels: 2
 product: experience cloud
-translation-type: ht
-source-git-commit: fdc3d09bf382a1fc5ef8a5af98e545cec942df8d
+translation-type: tm+mt
+source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 100%
 
 ---
 
 
 # 社内用のメタデータ
 
-metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+metadata.md ファイルにはリポジトリー内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
 | メタデータ | 説明 |
 |--- |--- |
@@ -27,4 +30,4 @@ metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md
 | getting-started-url | Helpx 開始ページへのリンク |
 | tutorials-url | ビデオチュートリアル（ヘルプチュートリアルまたは KT チュートリアル）へのリンク |
 | mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です |
-| git-repo | 内部で使用するマスターリポジトリの場所を指定します。 |
+| git-repo | 内部で使用するマスターリポジトリーの場所を指定します。 |
