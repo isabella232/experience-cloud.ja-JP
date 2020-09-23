@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: ht
-source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: ht
-source-wordcount: '1291'
+translation-type: tm+mt
+source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+workflow-type: tm+mt
+source-wordcount: '1295'
 ht-degree: 100%
 
 ---
@@ -291,7 +291,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration チュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -366,7 +366,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo 製品（クラシック）</a></li>
-      <li><a href="https://help.marketo.com/hc/ja"> Marketo Sky</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizbile ドキュメント</a></li>
     </ul>
   </td>
