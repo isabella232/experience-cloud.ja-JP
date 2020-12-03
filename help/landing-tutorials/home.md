@@ -1,8 +1,11 @@
 ---
 title: Adobe Experience Cloud チュートリアル
 description: すべての Experience Cloud チュートリアルと学習ガイドへのリンク
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+workflow-type: tm+mt
+source-wordcount: '374'
+ht-degree: 100%
 
 ---
 
