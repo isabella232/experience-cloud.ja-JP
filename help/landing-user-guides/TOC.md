@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Experience Cloud ドキュメント
 solution-title: ラーニングとサポート
-solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
