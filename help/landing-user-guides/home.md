@@ -271,24 +271,24 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/landing/home.html"> Experience Platform ドキュメント</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html"> Platform リリースノート</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2（ベータ版）</a></li>
     </ul>
     <p><strong>Experience Platform によるアプリケーションサービス</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/rtcdp/overview.html"> リアルタイムの顧客データプラットフォームガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html"> Journey Orchestration ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/places/using/home.html"> Places サービス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places サービス</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration チュートリアル</a></li>
