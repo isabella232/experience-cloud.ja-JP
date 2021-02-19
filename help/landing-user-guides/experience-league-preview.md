@@ -18,7 +18,7 @@ ht-degree: 100%
 
 **Analytics**
 
-* [Analytics](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
+* [解析](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Analytics Platform](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Media Analytics](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Data Workbench](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
@@ -59,14 +59,14 @@ ht-degree: 100%
 
 **Target**
 
-* [Target](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
+* [ターゲット](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Search&amp;Promote](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 
 **学習チュートリアル**
 
 * [AEM 学習チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Analytics 学習チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
-* [Audience Manager のラーニング](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
+* [Audience Manager のラーニング](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html)
 * [Campaign Standard 学習チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Campaign Classic 学習チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
 * [Target 学習チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html)
