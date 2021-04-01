@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
@@ -9,9 +9,9 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/experience-cloud.ja-JP
 index: true
 mini-toc-levels: 2
 product: experience cloud
-translation-type: ht
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: d95bfc5f8ce27cdd314810ec00c21dcf5cf9cb28
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
