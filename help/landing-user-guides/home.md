@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Cloud ドキュメント
 description: このページには、Adobe Experience Cloud のすべてのドキュメントと有効化ユーザーガイドとチュートリアルの包括的なリストが含まれています。
-translation-type: tm+mt
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: tm+mt
+exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
+translation-type: ht
+source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
+workflow-type: ht
 source-wordcount: '1295'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Experience Cloud ドキュメント
 
@@ -74,7 +74,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics-learn/tutorials/overview.html"> Analytics チュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics/technotes/home.html"> Analytics テクニカルノート</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics API</a></li>
     </ul>
@@ -158,7 +158,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/audience-manager-learn/tutorials/overview.html"> Audience Manager チュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -204,14 +204,14 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM as a Cloud Service チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher キャッシュチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM ヘッドレスチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/overview.html"> AEM as a Cloud Service チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/assets/overview.html"> AEM Assets チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/overview.html"> AEM Forms チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/overview.html"> AEM Sites チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/assets/overview.html"> AEM Foundation チュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher キャッシュチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM ヘッドレスチュートリアル</a></li>
     </ul>
   </td>
 </tr>
@@ -244,11 +244,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> コアサービスチュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch 実装ガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> モバイル iOS Swift アプリケーションでの Experience Cloud の実装</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> モバイル Android アプリでの Experience Cloud の実装</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/tutorials/overview.html"> コアサービスチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> モバイル iOS Swift アプリケーションでの Experience Cloud の実装</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> モバイル iOS Objective-C アプリケーションでの Experience Cloud の実装</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> モバイル Android アプリでの Experience Cloud の実装</a></li>
     </ul>
   </td>
 </tr>
@@ -271,24 +271,24 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/landing/home.html"> Experience Platform ドキュメント</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html"> Platform リリースノート</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2（ベータ版）</a></li>
     </ul>
     <p><strong>Experience Platform によるアプリケーションサービス</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/rtcdp/overview.html"> リアルタイムの顧客データプラットフォームガイド</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html"> Journey Orchestration ユーザーガイド</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places サービス</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/places/using/home.html"> Places サービス</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html"> Experience Platform ビデオチュートリアル</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/tutorials/home.html"> Experience Platform チュートリアル</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 実装ガイド</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開発者 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration チュートリアル</a></li>
@@ -366,7 +366,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo 製品（クラシック）</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ja-JP/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizbile ドキュメント</a></li>
     </ul>
   </td>
@@ -428,7 +428,7 @@ Advertising Cloud のヘルプは、ページの上部にあるヘルプアイ�
 >[!MORELIKETHIS]
 >
 >* [Experience Cloud のラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html)
->* [Experience League](https://experienceleague.adobe.com/)
+>* [Experience League](https://experienceleague.adobe.com/?lang=ja)
 >* [コミュニティフォーラム](https://forums.adobe.com/community/experience-cloud/)
 >* [アドビトレーニングおよびチュートリアル](https://helpx.adobe.com/jp/learning.html?promoid=KAUDK)
 
