@@ -1,31 +1,33 @@
 ---
-source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: ht
+source-git-commit: 11c77aec2c0b04e2d6c09cb09f8fc52552aeff97
+workflow-type: tm+mt
+source-wordcount: '429'
+ht-degree: 100%
 
 ---
 # 記事のコントリビューション
 
-アドビのコミュニティや、ドキュメントチーム外部のアドビ従業員からのコントリビューションをお待ちしています。
+アドビのコミュニティはもとより、ドキュメントチーム外部のアドビ従業員からのコントリビューションもお待ちしています。
 
-## Adobe Open Source Code of Practice
+## アドビのオープンソースの行動規範
 
-このプロジェクトでは、[Adobe Open Source Code of Actions](code-of-conduct.md)または. NET Foundation [Codeの実施を採用してい](https://dotnetfoundation.org/code-of-conduct)ます。詳しくは[、貢献度の高い](contributing.md)記事を参照してください。
+このプロジェクトでは、[アドビのオープンソースの行動規範](code-of-conduct.md)または [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct)（英語）を採用しています。詳しくは、[コントリビューション](contributing.md)の記事を参照してください。
 
-## Adobeコンテンツへの貢献事項について
+## アドビのコンテンツへのコントリビューションについて
 
-「 [Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)」を参照してください。
+[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-どのような貢献度が貢献しているか、およびどのように貢献したいかによって異なります。
+コントリビューションの方法は、誰がどのような変更をコントリビューションするかに応じて異なります。
 
-### マイナーな変更
+### 軽微な変更
 
-厳選されたマイナーな更新をおこなう場合は、記事にアクセスし、記事の GitHub ソースに移動する記事の&#x200B;**「編集」**&#x200B;リンクをクリックしてください。その後、GitHub UI を使用してアップデートをおこないます。詳しくは、一般的[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+軽微な変更をコントリビューションする場合には、目的の記事にアクセスし、**Edit** リンクをクリックしてください。当該記事の GitHub ソースが開きます。その後、GitHub UI を使用して更新を行います。詳しくは、一般的[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-このリポジトリのドキュメントおよびコード例については、マイナーな修正または詳細な説明をアドビの利用条件で説明しています。
+このリポジトリー内のドキュメントやコード例に対して提案される軽微な変更や補足説明には、アドビの利用規約が適用されます。
 
-### コミュニティメンバーによる主な変更または新しい記事
+### コミュニティメンバーによる大幅な変更または新しい記事
 
-アドビコミュニティの一部で、新しい記事を作成したり、大幅な変更を送信したい場合は、Git リポジトリの「問題」タブを使用して、ドキュメントチームとの会話を開始するために問題を送信してください。計画に同意したら、公開および非公開リポジトリの作業を組み合わせて新しいコンテンツを引き出すために、従業員と協力する必要があります。
+アドビコミュニティのメンバーが新しい記事を作成したり、大幅な変更をコントリビューションしたりする場合は、Git リポジトリーの「Issues」タブを使用してイシューを送信し、ドキュメントチームとのやり取りを開始してください。計画に同意したら、アドビ従業員と協力し、公開リポジトリーと非公開リポジトリー内の作業結果を組み合わせて新しいコンテンツを取り込むのを手伝う必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -37,20 +39,20 @@ If you submit a pull request with significant changes to documentation and code 
 
 ## ツールとセットアップ
 
-コミュニティ寄稿者は、基本的な編集にGitHub UIを使用したり、レポをフォークしてメジャー貢献度を確保したりできます。
+コミュニティのコントリビューターは、基本的な編集をするときには GitHub の UI を使用し、大きな変更を加えるときにはリポジトリーをフォークします。
 
-詳しくは、[Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-## markdownを使用してトピックをフォーマットする方法
+## Markdown を使用してトピックをフォーマットする方法
 
-このリポジトリのすべての記事は GitHub フレーズダウンダウンを使用します。マークダウンについて詳しくない場合は、以下を参照してください。
+このリポジトリーの記事はいずれも GitHub Flavored Markdown（GFM）を使用して書かれています。Markdown について詳しくない場合は、以下を参照してください。
 
-* [Markdown の基本](https://help.github.com/articles/markdown-basics/)
-* [印刷可能な Markdown のクイックリファレンス](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdown の基本](https://help.github.com/articles/markdown-basics/)（英語）
+* [印刷可能な Markdown のクイックリファレンス](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)（英語）
 
 ## ラベル
 
-公開リポジトリでは、自動ラベルがプルリクエストに割り当てられ、プルリクエストワークフローの管理と、プルリクエストの処理状況の把握に役立つようになります。
+公開リポジトリーでは、プルリクエストに以下のような自動ラベルが割り当てられ、プルリクエストワークフローの管理とプルリクエストの処理状況の把握に役立ちます。
 
 * **Change sent to author**：保留中のプルリクエストの通知が作成者に送信されました。
 * **ready- to- merge**：プルリクエストレビューチームによるレビューの準備ができました。
