@@ -1,6 +1,6 @@
 ---
 source-git-commit: 11c77aec2c0b04e2d6c09cb09f8fc52552aeff97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '429'
 ht-degree: 100%
 
@@ -47,7 +47,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 このリポジトリーの記事はいずれも GitHub Flavored Markdown（GFM）を使用して書かれています。Markdown について詳しくない場合は、以下を参照してください。
 
-* [Markdown の基本](https://help.github.com/articles/markdown-basics/)（英語）
+* [Markdown の基本](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)（英語）
 * [印刷可能な Markdown のクイックリファレンス](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)（英語）
 
 ## ラベル
