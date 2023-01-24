@@ -1,14 +1,14 @@
 ---
-title: 作成と管理のExperience Cloudトリガー
-description: Adobe Experience Cloud Triggers UI
+title: Experience Cloud Triggers の作成と管理
+description: Adobe Experience Cloud Triggers UI の確認
 hide: true
-source-git-commit: 5243940cc97621257e6ce4f41bfe837d1bc5530c
+exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
+source-git-commit: 5051c89be0a571df6528ce599c398e174a6d7280
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 43%
+ht-degree: 52%
 
 ---
-
 
 # Adobe Experience Cloud Triggers{#triggers-home}
 
