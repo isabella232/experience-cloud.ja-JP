@@ -5,9 +5,9 @@ breadcrumb-title: アドビの配信品質サービス
 solution: Experience Cloud
 hide: true
 source-git-commit: 3eb95ed738d053cc1250e66a28a00f26506f530d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '17'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
