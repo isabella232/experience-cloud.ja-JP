@@ -2,10 +2,11 @@
 title: グローバル抑制リスト
 description: グローバル抑制リストの確認
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 52%
+ht-degree: 55%
 
 ---
 
@@ -54,7 +55,7 @@ ht-degree: 52%
 
    >[!NOTE]
    >
-   >32～126 文字で構成される ASCII 印刷可能文字はすべて、このフィールドで使用できます。 完全なリストは、例えば[このページ](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}で確認することができます。
+   >ASCII コード 32 から 126 までの ASCII 印刷可能文字はすべて、このフィールドで使用できます。完全なリストは、例えば[このページ](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}で確認することができます。
 
 1. クリック **[!UICONTROL 送信]** をクリックして確定します。
 
@@ -69,6 +70,7 @@ ht-degree: 52%
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >CSV テンプレート内の列の名前は変更しないでください。
@@ -91,7 +93,7 @@ ht-degree: 52%
 
 次をクリック： **[!UICONTROL 最近のアップロード]** ボタンをクリックして、アップロードした最新の CSV ファイルのステータスを確認します。
 
-可能なステータスは次のとおりです。
+考えられるステータスは次のとおりです。
 
 * **[!UICONTROL 保留中]**：ファイルのアップロードを処理中です。
 * **[!UICONTROL エラー]**：技術的な問題またはファイル形式のエラーが原因で、ファイルのアップロードプロセスに失敗しました。
@@ -108,4 +110,3 @@ ht-degree: 52%
 >[!CAUTION]
 >
 >サードパーティのサービスプロバイダーによって自動的に追加されたアドレスまたはドメイン Blackbox は、インターフェイスを通じてコンサルタントが削除することはできません。 これは、バックエンドチケットを介してのみ実行できます。
-
