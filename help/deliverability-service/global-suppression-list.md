@@ -4,7 +4,7 @@ description: グローバル抑制リストの確認
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
 source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 100%
 
