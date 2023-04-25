@@ -1,18 +1,18 @@
 ---
 title: Experience Cloud Triggers の作成と管理
 description: Adobe Experience Cloud Triggers UI の確認
-hide: true
-hidefromtoc: true
-source-git-commit: 9f1b3257e49c34d2909d457c098a2081a2fb69a3
-workflow-type: ht
-source-wordcount: '271'
-ht-degree: 100%
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 98%
 
 ---
 
-# トリガーの概要 {#overview}
+# Experience Cloudトリガー {#overview}
 
 Experience Cloud トリガーは、消費者の重要な行動を特定、定義、監視するための包括的なソリューションを提供します。これらのトリガーを使用すると、クロスアプリケーションコミュニケーションを生成して訪問者を再エンゲージし、よりパーソナライズされた魅力的なユーザーエクスペリエンスを実現できます。
+
+
 リアルタイムでの意思決定とパーソナライゼーションにトリガーを使用できます。次に例を示します。
 
 * 買い物かごの放棄、または製品が削除された買い物かごの放棄に対して迅速なリマーケティングキャンペーンを設定し、コンバージョンと収益の増加を支援します。

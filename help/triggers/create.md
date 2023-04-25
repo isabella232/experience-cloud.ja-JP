@@ -3,10 +3,11 @@ title: Experience Cloud Triggers の作成と管理
 description: Adobe Experience Cloud Triggers UI の確認
 hide: true
 hidefromtoc: true
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
-workflow-type: ht
-source-wordcount: '483'
-ht-degree: 100%
+exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '484'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 100%
 
 トリガーを作成し、トリガーの条件を設定します。例えば、買い物かごの放棄のような指標や製品名のようなディメンションなど、訪問中のトリガーのルールに対する条件を指定できます。ルールを満たすと、トリガーが実行されます。
 
-1. Experience Cloud で、詳細メニューを選択し、「トリガー」を選択します。
+1. Experience Cloudで、ソリューション切り替えメニューを選択し、 **[!UICONTROL トリガー]**.
 
    ![](assets/triggers_7.png)
 
@@ -38,7 +39,7 @@ ht-degree: 100%
 
 1. このトリガーに使用する Analytics **[!UICONTROL レポートスイート]**&#x200B;を選択します。この設定は、使用するレポートデータを特定します。
 
-   [詳しくは、レポートスイートを参照してください](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=ja)。
+   [レポートスイートの詳細を説明します](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=ja){target="_blank"}.
 
 1. 有効期間の間&#x200B;**[!UICONTROL 何もしない場合のトリガー]**&#x200B;を選択します。
 
