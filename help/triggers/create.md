@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '484'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 トリガーを作成し、トリガーの条件を設定します。例えば、買い物かごの放棄のような指標や製品名のようなディメンションなど、訪問中のトリガーのルールに対する条件を指定できます。ルールを満たすと、トリガーが実行されます。
 
-1. Experience Cloudで、ソリューション切り替えメニューを選択し、 **[!UICONTROL トリガー]**.
+1. Experience Cloud で、ソリューション切り替えメニュー、「**[!UICONTROL トリガー]**」の順に選択します。
 
    ![](assets/triggers_7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. このトリガーに使用する Analytics **[!UICONTROL レポートスイート]**&#x200B;を選択します。この設定は、使用するレポートデータを特定します。
 
-   [レポートスイートの詳細を説明します](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=ja){target="_blank"}.
+   [詳しくは、レポートスイートを参照してください](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=ja){target="_blank"}。
 
 1. 有効期間の間&#x200B;**[!UICONTROL 何もしない場合のトリガー]**&#x200B;を選択します。
 
