@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Experience Cloud トリガーの新しいユーザーインターフェイスは、消費者の行動を管理し、ユーザーエクスペリエンスをパーソナライズするための直感的なエクスペリエンスを提供します。
 
-Experience Cloud Triggers を使用すると、パイプラインを使用して Adobe Campaign と Adobe Analytics の間でデータを接続できます。パイプラインは、web サイトからユーザーのアクションやトリガーを取得します。買い物かごの放棄は、トリガーの一例です。トリガーはAdobe Campaignで処理され、ほぼリアルタイムで E メールを送信します。
+Experience Cloud Triggers を使用すると、パイプラインを使用して Adobe Campaign と Adobe Analytics の間でデータを接続できます。パイプラインは、web サイトからユーザーのアクションやトリガーを取得します。買い物かごの放棄は、トリガーの一例です。トリガーは Adobe Campaign で処理され、ほぼリアルタイムでメールが送信されます。
 
 
 **参考になるリンク：**
