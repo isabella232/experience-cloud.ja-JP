@@ -4,7 +4,7 @@ description: アドビの配信品質サービスの確認
 hide: true
 exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
 source-git-commit: b5436d4e713f2f358a86f039820072225d1686f2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 

@@ -2,9 +2,8 @@
 title: ソフトウェア配布
 description: Adobe Experience Cloud「ソフトウェア配布」の使用方法
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
-translation-type: ht
 source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 

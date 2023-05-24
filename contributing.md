@@ -1,6 +1,8 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: ht
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 100%
 
 ---
 # コントリビューション
