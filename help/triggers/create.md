@@ -2,20 +2,24 @@
 title: Experience Cloud Triggers の作成と管理
 description: Adobe Experience Cloud Triggers UI の確認
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 100%
+source-wordcount: '505'
+ht-degree: 95%
 
 ---
 
 # Experience Cloud トリガーの作成 {#create-triggers}
 
+>[!AVAILABILITY]
+>
+>Adobe Experience Cloud Triggersの新しいユーザーインターフェイスは、すべての顧客に段階的に展開されます。 詳しくは、Adobe担当者にお問い合わせください。
+
+トリガーを作成し、トリガーの条件を設定します。例えば、買い物かごの放棄のような指標や製品名のようなディメンションなど、訪問中のトリガーのルールに対する条件を指定できます。ルールを満たすと、トリガーが実行されます。
+
 >[!NOTE]
 >
 > Experience Cloud トリガーの新しいユーザーインターフェイスは、消費者の行動を管理し、ユーザーエクスペリエンスをパーソナライズするための直感的なエクスペリエンスを提供します。以前のインターフェイスに戻すには、「**[!UICONTROL クラシックモードに移動]**」ボタンをクリックします。
-
-トリガーを作成し、トリガーの条件を設定します。例えば、買い物かごの放棄のような指標や製品名のようなディメンションなど、訪問中のトリガーのルールに対する条件を指定できます。ルールを満たすと、トリガーが実行されます。
 
 1. Experience Cloud で、ソリューション切り替えメニュー、「**[!UICONTROL トリガー]**」の順に選択します。
 
