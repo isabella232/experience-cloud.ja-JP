@@ -2,10 +2,10 @@
 title: Experience Cloud Triggers の作成と管理
 description: Adobe Experience Cloud Triggers UI の確認
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: ht
+source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
+workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 100%
 
    各コンテナはヒットレベルで個別に処理されます。つまり、2 つのコンテナが **[!UICONTROL And]** 演算子で結合されている場合、2 つのヒットが要件を満たしている場合にのみルールが適用されます。
 
-1. 「**[!UICONTROL メタデータ]**」フィールドから、「**[!UICONTROL + ディメンション]**」をクリックして、訪問者の行動に関連する特定のキャンペーンディメンションまたは変数を選択します。
+1. 次の **[!UICONTROL メタデータ]** フィールド、クリック **[!UICONTROL +Dimension]** を使用して、訪問者の行動に関連する特定のキャンペーンディメンションまたは変数を選択します。
 
    ![](assets/triggers_3.png)
 
